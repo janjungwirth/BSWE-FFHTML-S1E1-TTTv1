@@ -14,7 +14,7 @@
 
 3. Layout
 3.1) Basis ist schwarz mit weißen Linien
-3.2) o und X sind 2 verschiedenfärbige Farbklex 
+3.2) O und X sind 2 verschiedenfärbige Farbklexe
 3.3) Blau und Grün
 
 
