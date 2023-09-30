@@ -12,11 +12,16 @@
 2.3) Wenn "TTT" dann Konfetti, Gewonnener Spieler Anzeigen und Score zählen
 2.4) 
 
+3. Layout
+3.1) Basis ist schwarz mit weißen Linien
+3.2) o und X sind 2 verschiedenfärbige Farbklex 
+3.3) Blau und Grün
 
-3. Grundbegriffe
+
+4. Grundbegriffe
 TTT = Tic Tac Toe und Spielgewinn
 
-4.TODO:
+5.TODO:
 
 
-5. Roadmap:
+6. Roadmap:
