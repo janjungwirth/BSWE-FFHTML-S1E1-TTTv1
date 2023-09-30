@@ -1,4 +1,4 @@
-
+WIR COMMITEN UNS ZUR WEITERENTWICKLUMG DIESES SPIELS ANGEPASST AN UNSERE FÄHIGKEITEN
 
 1. Gamedesignes 
 
@@ -15,8 +15,9 @@
 3. Layout
 3.1) Basis ist schwarz mit weißen Linien
 3.2) O und X sind 2 verschiedenfärbige Farbklexe
-3.3) Blau und Grün
-
+3.3) Blau rgb(0,0,255) und Grün rgb(173,255,47)
+3.4) https://10015.io/tools/svg-blob-generator
+3.5) Die Farbklexe sind in Bewegung
 
 4. Grundbegriffe
 TTT = Tic Tac Toe und Spielgewinn
