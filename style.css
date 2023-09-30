@@ -3,9 +3,51 @@
     padding: 0;
 }
 
+:root{
+    --headline-background: black;
+    --footer-background: var(--headline-background);
+    --game-primarybackground: white;
+    --game-secondarybackground: black;
+    --game-primarycolorline: white;
+    --game-playerone: green;
+    --game-playertwo: blue;
+}
+body{
+    background-color: var(--game-secondarybackground);
+}
+.headline{
+    height: 10vh;
+    background-color: var(--headline-background);
+}
+.game-wrapper{ 
+    margin: auto;
+    height: 70vh; 
+    aspect-ratio: 1 / 1;
+    background-color: var(--game-primarybackground);
 
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: .5rem;
+
+    justify-content: center;
+    align-items: center;
+}
+
+
+.card{
+    background-color: var(--game-secondarybackground);
+    aspect-ratio: 1 / 1;
+    width: 25%;
+    margin: 0 auto;
+
+}
+
+
+.card:hover{
+    background-color: green;
+}
 footer{
-    height: 20vh;
-    background-color: bisque;
-    bottom: 0px;
+    height: 15vh;
+    background-color: var(--headline-background);
 }
