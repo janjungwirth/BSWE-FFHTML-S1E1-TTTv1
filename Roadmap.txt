@@ -1,1 +1,22 @@
 
+
+1. Gamedesignes 
+
+1.1) Als Spieler wünsche ich mir eine funktion, die mir zeigt, welcher Spieler an der Reihe ist. 
+1.3) Als Spieler wünsche ich mir eine funktion, möchte die Funktion zur wiederholung des Spiels
+1.4) Als Spieler wünsche ich mir eine funktion, wünsche ich mir ein Gamedesign welches mich mittels Tieren anspricht
+
+2. Grunddesign 
+2.1) Das Spiel läuft lokal auf einem Rechner mit zwei Benutzern
+2.2) Weiterführend wünschen wir uns, das dass Spiel auf einem Server laufen soll
+2.3) Wenn "TTT" dann Konfetti, Gewonnener Spieler Anzeigen und Score zählen
+2.4) 
+
+
+3. Grundbegriffe
+TTT = Tic Tac Toe und Spielgewinn
+
+4.TODO:
+
+
+5. Roadmap:
