@@ -2,18 +2,15 @@ WIR COMMITEN UNS ZUR WEITERENTWICKLUMG DIESES SPIELS ANGEPASST AN UNSERE FÄHIGK
 
 1. Gamedesignes 
 
-1.1) Als Spieler wünsche ich mir eine funktion, die mir zeigt, welcher Spieler an der Reihe ist. 
-1.3) Als Spieler wünsche ich mir eine funktion, möchte die Funktion zur wiederholung des Spiels
-1.4) Als Spieler wünsche ich mir eine funktion, wünsche ich mir ein Gamedesign welches mich mittels Tieren anspricht
+1.4) Als Spieler wünsche ich mir eine funktion, wünsche ich mir ein Gamedesign welches mich mittels Farbklexen anspricht.
+1.5) Als Spieler wünsche ich mir eine funktion, welche mit konfetti auf dem Bildschirm anzeigt, sobald ich gewonnen habe. 
+1.6) Als Spieler wünsche ich mir eine eigene Unterseite, welche mir zeigt, wie oft ich gewonnen/verloren/unentschieden gespielt habe.
 
 2. Grunddesign 
-2.1) Das Spiel läuft lokal auf einem Rechner mit zwei Benutzern
 2.2) Weiterführend wünschen wir uns, das dass Spiel auf einem Server laufen soll
 2.3) Wenn "TTT" dann Konfetti, Gewonnener Spieler Anzeigen und Score zählen
-2.4) 
 
 3. Layout
-3.1) Basis ist schwarz mit weißen Linien
 3.2) O und X sind 2 verschiedenfärbige Farbklexe
 3.3) Blau rgb(0,0,255) und Grün rgb(173,255,47)
 3.4) https://10015.io/tools/svg-blob-generator
@@ -24,5 +21,24 @@ TTT = Tic Tac Toe und Spielgewinn
 
 5.TODO:
 
+ * Gewinner Screen (1.5)
+ * Farbklexe (1.4)
+ * Leaderboard (1.6)
+ * Konfetti (1.5)
 
-6. Roadmap:
+
+6. Done:
+
+1.1) Als Spieler wünsche ich mir eine funktion, die mir zeigt, welcher Spieler an der Reihe ist. 
+1.3) Als Spieler wünsche ich mir eine funktion, möchte die Funktion zur wiederholung des Spiels
+2.1) Das Spiel läuft lokal auf einem Rechner mit zwei Benutzern
+3.1) Basis ist schwarz mit weißen Linien
+
+
+7. Roadmap (Vorschlag):
+Erster Entwurf: 04.10.2023 - 10.10.2023
+Beginn-Testphase: 07.10.2023 - 14.10.2023
+Refinement: 10.10.2023 - 20.10.2023
+Letzter Change: 21.10.2023
+Buffer: 21.10.20203 - 25.10.2023
+Abgabe: 25.10.2023
